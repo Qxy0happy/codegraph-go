@@ -1,0 +1,11 @@
+codegraph-go.exe
+codegraph-go.test.exe
+*.test
+*.test.exe
+.codegraph/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
