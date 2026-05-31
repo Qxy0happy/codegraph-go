@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/colbymchenry/codegraph-go/internal/extraction"
-	"github.com/colbymchenry/codegraph-go/internal/graph"
+	"github.com/Qxy0happy/codegraph-go/internal/extraction"
+	"github.com/Qxy0happy/codegraph-go/internal/graph"
 )
 
 // SyncResult summarizes a sync operation.

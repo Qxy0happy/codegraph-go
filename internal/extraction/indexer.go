@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/colbymchenry/codegraph-go/internal/graph"
-	"github.com/colbymchenry/codegraph-go/internal/types"
+	"github.com/Qxy0happy/codegraph-go/internal/graph"
+	"github.com/Qxy0happy/codegraph-go/internal/types"
 )
 
 // IndexConfig controls indexer behavior.

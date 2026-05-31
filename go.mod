@@ -1,4 +1,4 @@
-module github.com/colbymchenry/codegraph-go
+module github.com/Qxy0happy/codegraph-go
 
 go 1.26.3
 

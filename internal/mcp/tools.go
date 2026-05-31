@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/colbymchenry/codegraph-go/internal/types"
+	"github.com/Qxy0happy/codegraph-go/internal/types"
 )
 
 // ---------------------------------------------------------------------------

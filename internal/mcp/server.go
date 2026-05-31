@@ -13,7 +13,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/colbymchenry/codegraph-go/internal/graph"
+	"github.com/Qxy0happy/codegraph-go/internal/graph"
 )
 
 // Server is an MCP server that provides code intelligence tools.

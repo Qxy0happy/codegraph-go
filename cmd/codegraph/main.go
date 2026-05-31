@@ -10,12 +10,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/colbymchenry/codegraph-go/internal/extraction"
-	"github.com/colbymchenry/codegraph-go/internal/graph"
-	"github.com/colbymchenry/codegraph-go/internal/mcp"
-	"github.com/colbymchenry/codegraph-go/internal/sync"
-	"github.com/colbymchenry/codegraph-go/internal/types"
-	"github.com/colbymchenry/codegraph-go/internal/watcher"
+	"github.com/Qxy0happy/codegraph-go/internal/extraction"
+	"github.com/Qxy0happy/codegraph-go/internal/graph"
+	"github.com/Qxy0happy/codegraph-go/internal/mcp"
+	"github.com/Qxy0happy/codegraph-go/internal/sync"
+	"github.com/Qxy0happy/codegraph-go/internal/types"
+	"github.com/Qxy0happy/codegraph-go/internal/watcher"
 )
 
 func main() {

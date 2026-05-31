@@ -8,7 +8,7 @@ import (
 
 	_ "modernc.org/sqlite"
 
-	"github.com/colbymchenry/codegraph-go/internal/types"
+	"github.com/Qxy0happy/codegraph-go/internal/types"
 )
 
 // DB wraps a SQLite connection for graph queries.

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/colbymchenry/codegraph-go/internal/graph"
-	"github.com/colbymchenry/codegraph-go/internal/mcp"
+	"github.com/Qxy0happy/codegraph-go/internal/graph"
+	"github.com/Qxy0happy/codegraph-go/internal/mcp"
 )
 
 func findRoot() string {

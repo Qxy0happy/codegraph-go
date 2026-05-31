@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/colbymchenry/codegraph-go/internal/types"
+	"github.com/Qxy0happy/codegraph-go/internal/types"
 )
 
 // Extractor extracts CodeGraph symbols and edges from source code.

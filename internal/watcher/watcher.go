@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/colbymchenry/codegraph-go/internal/extraction"
-	"github.com/colbymchenry/codegraph-go/internal/graph"
+	"github.com/Qxy0happy/codegraph-go/internal/extraction"
+	"github.com/Qxy0happy/codegraph-go/internal/graph"
 )
 
 // WatchConfig controls the file watcher behavior.
